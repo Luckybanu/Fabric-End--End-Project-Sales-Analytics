@@ -12,3 +12,7 @@ Applied **currency normalization** & **USD conversion** to enable global sales r
 Modeled a **business-ready star schema**(fact sales + multiple dimensions) in the **Gold layer**
 
 Delivered **curated datasets** in Gold that can be connected to **Power BI** for insights
+
+**You can explore the interactive dashboard here**
+
+https://app.powerbi.com/groups/8ec2db4d-4bc9-474e-a895-82c5f9ea98df/reports/8685ed1b-0ca4-439e-ad70-da063e17da84/7df83716c760c734c343?experience=power-bi
