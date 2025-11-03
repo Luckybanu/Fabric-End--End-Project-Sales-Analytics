@@ -17,3 +17,5 @@ Delivered **curated datasets** in Gold that can be connected to **Power BI** for
 
 👉 [View Power BI Dashboard](https://app.powerbi.com/groups/8ec2db4d-4bc9-474e-a895-82c5f9ea98df/reports/8685ed1b-0ca4-439e-ad70-da063e17da84/7df83716c760c734c343?experience=power-bi)
 
+👉 [View Project Presentation (Google Drive)](https://drive.google.com/file/d/1G-7P-cjvBWdLPSSfgTEYhW069o5DmXyc/view?usp=drive_link)
+
